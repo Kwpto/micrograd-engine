@@ -44,8 +44,3 @@ Training results show:
 This confirms the correctness of gradient computation and backpropagation.
 
 ---
-
-## Project Structure
-
-
-
